@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40549fc63e6566a671097207dff3a4a8",
+    "revision": "d1268641f6020a224510c47a7bbf91fb",
     "url": "/descryptor-test/index.html"
   },
   {
-    "revision": "13ce49a2e4a747ccb829",
-    "url": "/descryptor-test/static/css/main.0c78421f.chunk.css"
+    "revision": "6d2093394950ef349074",
+    "url": "/descryptor-test/static/css/main.4f32e28a.chunk.css"
   },
   {
     "revision": "658ea620c95548418b90",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/descryptor-test/static/js/2.df75efe1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13ce49a2e4a747ccb829",
+    "revision": "6d2093394950ef349074",
     "url": "/descryptor-test/static/js/main.c2eda4ac.chunk.js"
   },
   {
