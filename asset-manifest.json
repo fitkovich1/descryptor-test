@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/descryptor-test/static/css/main.0c78421f.chunk.css",
+    "main.js": "/descryptor-test/static/js/main.c2eda4ac.chunk.js",
+    "main.js.map": "/descryptor-test/static/js/main.c2eda4ac.chunk.js.map",
+    "runtime-main.js": "/descryptor-test/static/js/runtime-main.1f533b03.js",
+    "runtime-main.js.map": "/descryptor-test/static/js/runtime-main.1f533b03.js.map",
+    "static/js/2.df75efe1.chunk.js": "/descryptor-test/static/js/2.df75efe1.chunk.js",
+    "static/js/2.df75efe1.chunk.js.map": "/descryptor-test/static/js/2.df75efe1.chunk.js.map",
+    "index.html": "/descryptor-test/index.html",
+    "precache-manifest.1f83e4b6231885242e0919fa47314c7c.js": "/descryptor-test/precache-manifest.1f83e4b6231885242e0919fa47314c7c.js",
+    "service-worker.js": "/descryptor-test/service-worker.js",
+    "static/css/main.0c78421f.chunk.css.map": "/descryptor-test/static/css/main.0c78421f.chunk.css.map",
+    "static/js/2.df75efe1.chunk.js.LICENSE.txt": "/descryptor-test/static/js/2.df75efe1.chunk.js.LICENSE.txt",
+    "static/media/Decryption.module.css": "/descryptor-test/static/media/enigma.af2a27f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f533b03.js",
+    "static/js/2.df75efe1.chunk.js",
+    "static/css/main.0c78421f.chunk.css",
+    "static/js/main.c2eda4ac.chunk.js"
+  ]
+}
