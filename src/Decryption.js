@@ -38,7 +38,7 @@ class Decryption extends Component {
 
 					<div className={styles.result_block}>
                         <div className={styles.result_block_text}>
-                            Result message: {this.state.descryptResult}
+                            <h3>Result message:</h3> {this.state.descryptResult}
                         </div>
 					</div>
 				</div>
