@@ -22,7 +22,7 @@ body {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: url('https://lh3.googleusercontent.com/proxy/aW6WNOeF7tyKMEskn6RQ11v2MvF_LP7U_h6Hj2HzhADshaNr6zH7fLm3u7S9O1l7Cf8DN-QE5BzeRsETuj4V') no-repeat center;
+	background: url('https://magarticles.magzter.com/articles/3357/296494/5b729315c6f15/Egypt-Egyptologist-History-Culture.jpg') no-repeat center;
 	background-size: cover;
 	filter: brightness(0.7);
 }
@@ -132,4 +132,3 @@ button:hover {
 	border-radius: 10px;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
 }
-
